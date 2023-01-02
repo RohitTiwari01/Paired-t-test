@@ -4,6 +4,7 @@ This repository consists a simple data in which two independent sample t-test is
 
 
 ## About the Data
+![dmrc-logo](https://user-images.githubusercontent.com/62991959/210202141-bec311c2-78e4-44be-9936-d6e6c91091bf.jpg)
 
 Delhi Metro Rail Corporation(DMRC) performed a trial with an objective to decrease 
 total time taken by a metro between two ends a line by some minutes. 
